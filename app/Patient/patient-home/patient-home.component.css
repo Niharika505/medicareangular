@@ -1,0 +1,10 @@
+.jumbotron {
+    background-image:
+        url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtx0xGR7W-9PF4KfoV6B5bEM3EVQn40-uRV7Zh0nxzKiDG0Omw&s");
+    height: 50%;
+    background-repeat: no-repeat;
+    width:100%;
+    position: relative;
+    background-size: cover;
+
+}
